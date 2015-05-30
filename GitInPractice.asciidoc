@@ -5,3 +5,5 @@ A new line
 An newer line
 
 A line to test push
+
+Test fetch
